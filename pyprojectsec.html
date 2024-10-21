@@ -67,31 +67,13 @@
       white-space: pre-wrap;
     }
 
-    .buttons {
-      display: flex;
-      justify-content: space-around;
-      margin-top: 20px;
+    .section-title {
+      font-size: 1.2em;
+      color: #333;
+      margin-bottom: 10px;
+      text-align: left;
     }
 
-    .btn {
-      text-decoration: none;
-      color: white;
-      padding: 10px 20px;
-      border-radius: 5px;
-      transition: background-color 0.3s;
-    }
-
-    .demo {
-      background-color: #007BFF;
-    }
-
-    .code {
-      background-color: #28A745;
-    }
-
-    .btn:hover {
-      opacity: 0.8;
-    }
   </style>
 </head>
 <body>
@@ -102,21 +84,30 @@
       <div class="project-card">
         <h2>Project 1</h2>
         <p>Short description of project 1.</p>
+        
+        <!-- Input Section -->
+        <div class="section-title">Input:</div>
         <div class="code-block">
-          <h4>#### Python</h4>
           <pre><code>
 ```python
+# Example Python Input
 def example_function():
-    print("This is an example of a Python function output")
-example_function()
-   </code></pre>
+    return "Input to function"
+          </code></pre>
     </div>
-    <div class="buttons">
-      <a href="#" class="btn demo">Demo</a>
-      <a href="#" class="btn code">Code</a>
+    
+    <!-- Output Section -->
+    <div class="section-title">Output:</div>
+    <div class="code-block">
+      <pre><code>
+          # Output:
+'Input to function'
+      </code></pre>
     </div>
   </div>
 
-  <!-- Repeat for the other 5 projects -->
+  <!-- Repeat for other 5 projects -->
 </div>
-</section> <script> document.querySelectorAll('.btn').forEach(button => { button.addEventListener('mouseover', () => { button.style.backgroundColor = '#444'; }); button.addEventListener('mouseout', () => { if (button.classList.contains('demo')) { button.style.backgroundColor = '#007BFF'; } else { button.style.backgroundColor = '#28A745'; } }); }); </script> </body> </html> ```
+</section> </body> </html>
+
+
