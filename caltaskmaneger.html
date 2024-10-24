@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Task Calendar</title>
+  <link rel="stylesheet" href="buy.css">
+</head>
+<body>
+  <div class="calendar-container">
+    <h1>Task Calendar</h1>
+    <div class="calendar-header">
+      <button id="prev-month" class="nav-arrow">&lt;</button>
+      <h2 id="month-year"></h2>
+      <button id="next-month" class="nav-arrow">&gt;</button>
+    </div>
+    <div id="calendar"></div>
+  </div>
+
+  <div class="task-modal" id="task-modal">
+    <div class="task-modal-content">
+      <span id="close-modal">&times;</span>
+      <h2>Task for <span id="selected-date"></span></h2>
+      <textarea id="task-input" placeholder="Write your task..."></textarea>
+      <button id="save-task">Save Task</button>
+    </div>
+  </div>
+
+  <script src="l.js"></script>
+</body>
+</html>
+
+css
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.calendar-container {
+  width: 80%;
+  max-width: 800px;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.calendar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.nav-arrow {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.nav-arrow:hover {
+  background-color: #0056b3;
+}
+
+#calendar {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 10px;
+}
+
+.day {
+  background-color: #e0e0e0;
+  padding: 10px;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+  position: relative;
+}
+
+.day:hover {
+  background-color: #c9c9c9;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+}
+
+.task-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  justify-content: center;
+  align-items: center;
+}
+
+.task-modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 400px;
+  width: 90%;
+  text-align: center;
+  position: relative;
+}
+
+#close-modal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+  font-size: 24px;
+}
+
+#task-input {
+  width: 100%;
+  height: 100px;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+js
+
+
+document.addEventListener("DOMContentLoaded", function () {
+  const calendar = document.getElementById('calendar');
+  const monthYearDisplay = document.getElementById('month-year');
+  const prevMonthBtn = document.getElementById('prev-month');
+  const nextMonthBtn = document.getElementById('next-month');
+  const taskModal = document.getElementById('task-modal');
+  const taskInput = document.getElementById('task-input');
+  const saveTaskBtn = document.getElementById('save-task');
+  const closeModalBtn = document.getElementById('close-modal');
+  const selectedDateDisplay = document.getElementById('selected-date');
+
+  let tasks = {};
+  let currentMonth = new Date().getMonth();
+  let currentYear = new Date().getFullYear();
+
+  // Helper to format month name and year
+  function updateMonthYear() {
+    const date = new Date(currentYear, currentMonth);
+    const options = { year: 'numeric', month: 'long' };
+    monthYearDisplay.textContent = date.toLocaleDateString('en-US', options);
+  }
+
+  // Render the calendar for the current month and year
+  function renderCalendar() {
+    calendar.innerHTML = ''; // Clear the previous calendar
+    const daysInMonth = new Date(currentYear, currentMonth + 1, 0).getDate();
+    const firstDayIndex = new Date(currentYear, currentMonth, 1).getDay();
+
+    // Render empty divs for days of the previous month
+    for (let i = 0; i < firstDayIndex; i++) {
+      const emptyDiv = document.createElement('div');
+      emptyDiv.classList.add('day');
+      emptyDiv.style.visibility = 'hidden';
+      calendar.appendChild(emptyDiv);
+    }
+
+    // Render days of the current month
+    for (let day = 1; day <= daysInMonth; day++) {
+      const dayDiv = document.createElement('div');
+      dayDiv.classList.add('day');
+      dayDiv.textContent = day;
+
+      const fullDate = `${currentYear}-${currentMonth + 1}-${day}`;
+      dayDiv.setAttribute('data-date', fullDate);
+
+      // Add dot indicator (yellow for task, red if no task)
+      const dotDiv = document.createElement('div');
+      dotDiv.classList.add('dot');
+      dotDiv.style.backgroundColor = tasks[fullDate] ? 'yellow' : 'red';
+      dayDiv.appendChild(dotDiv);
+
+      // Open modal on clicking the day
+      dayDiv.addEventListener('click', function () {
+        openTaskModal(fullDate);
+      });
+
+      calendar.appendChild(dayDiv);
+    }
+  }
+
+  // Open task modal and set selected date
+  function openTaskModal(date) {
+    selectedDateDisplay.textContent = date;
+    taskInput.value = tasks[date] || ''; // Load existing task or empty
+    taskModal.style.display = 'flex';
+  }
+
+  // Close task modal
+  closeModalBtn.addEventListener('click', function () {
+    taskModal.style.display = 'none';
+    taskInput.value = ''; // Clear the input field when modal is closed
+  });
+
+  // Save the task to the selected date
+  saveTaskBtn.addEventListener('click', function () {
+    const selectedDate = selectedDateDisplay.textContent;
+    const taskText = taskInput.value;
+
+    if (taskText.trim()) {
+      tasks[selectedDate] = taskText;
+    } else {
+      delete tasks[selectedDate]; // Remove task if empty
+    }
+
+    renderCalendar(); // Re-render the calendar to update dot color
+    taskModal.style.display = 'none';
+    taskInput.value = ''; // Clear the input field after saving
+  });
+
+  // Previous month button
+  prevMonthBtn.addEventListener('click', function () {
+    currentMonth--;
+    if (currentMonth < 0) {
+      currentMonth = 11;
+      currentYear--;
+    }
+    updateMonthYear();
+    renderCalendar();
+  });
+
+  // Next month button
+  nextMonthBtn.addEventListener('click', function () {
+    currentMonth++;
+    if (currentMonth > 11) {
+      currentMonth = 0;
+      currentYear++;
+    }
+    updateMonthYear();
+    renderCalendar();
+  });
+
+  // Initialize the calendar for the current month and year
+  updateMonthYear();
+  renderCalendar();
+});
