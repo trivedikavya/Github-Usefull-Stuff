@@ -50,3 +50,43 @@
       color: #ddd;
       font-size: 1rem;
     }
+
+   .contact-form input[type="email"]::placeholder,
+    .contact-form textarea::placeholder {
+      color: #bbb; /* Lighter placeholder color */
+    }
+
+    /* Submit Button Styling */
+    .contact-form button {
+      padding: 12px;
+      background-color: #1e90ff; /* Blue button */
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .contact-form button:hover {
+      background-color: #104e8b; /* Darker blue on hover */
+    }
+  </style>
+</head>
+<body>
+
+  <section class="contact-section">
+    <h2>Contact Me</h2>
+    <form class="contact-form">
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" placeholder="Your email" required>
+      
+      <label for="message">Message</label>
+      <textarea id="message" name="message" rows="4" placeholder="Your message" required></textarea>
+      
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+</body>
+</html>
