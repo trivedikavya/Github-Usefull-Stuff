@@ -140,3 +140,5 @@ Choose from any of the [default themes](#themes)
 #### repo cards 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trivedikavya\&repo=vcardresume)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trivedikavya\&repo=vcardresume\&show_owner=true)
