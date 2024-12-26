@@ -149,6 +149,7 @@ Choose from any of the [default themes](#themes)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trivedikavya)
 
+
 ***
 
 
