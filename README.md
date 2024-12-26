@@ -42,9 +42,6 @@ Becoz everything written in Internal Format
 | --- | --- | --- | --- |
 | `title_color` | Card's title color. | string (hex color) | `2f80ed` |
 | `text_color` | Body text color. | string (hex color) | `434d58` |
-
-
 | `bg_color` | Card's background color. | string (hex color or a gradient in the form of *angle,start,end*) | `fffefe` |
-
-| `theme` | Name of the theme, choose from [all available themes](the/README.md). | enum | `default` |
+| `theme` | Name of the theme, choose from [link mate bhai ](the/README.md). | enum | `default` |
 
