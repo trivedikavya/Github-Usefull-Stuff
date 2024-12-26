@@ -148,5 +148,5 @@ Choose from any of the [default themes](#themes)
 
 *   Compact layout
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trivedikavya\&layout=compact)
+![kavya trivedi WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trivedikavya\&layout=compact)
 
