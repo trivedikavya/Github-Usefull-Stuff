@@ -23,5 +23,5 @@ Becoz everything written in Internal Format
 > Options: `tu same bi lakhi sake `
 
 ```md
-![Anurag's GitHub stats](hthide=contribs,prs)
+![KAVYA TRIVEDI's GitHub stats](hthide=contribs,prs)
 ```
