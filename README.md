@@ -145,3 +145,5 @@ Choose from any of the [default themes](#themes)
 
 
 ![Gist Card](https://vcardresume.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
+
+![Gist Card](https://vcardresume.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=true)
