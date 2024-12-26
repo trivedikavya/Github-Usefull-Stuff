@@ -17,4 +17,6 @@ Becoz everything written in Internal Format
 > [!WARNING]\
 > By default, the
 
+> [!NOTE]\
+> Available ranks are
 
