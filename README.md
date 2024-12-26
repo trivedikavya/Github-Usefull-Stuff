@@ -143,6 +143,8 @@ Choose from any of the [default themes](#themes)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trivedikavya\&repo=vcardresume\&show_owner=true)
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=trivedikavya\&repo=vcardresume\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+
 
 ![Gist Card](https://vcardresume/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
 
