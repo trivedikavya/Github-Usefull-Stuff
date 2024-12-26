@@ -139,3 +139,4 @@ Choose from any of the [default themes](#themes)
 ***
 #### repo cards 
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trivedikavya\&repo=)
