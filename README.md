@@ -12,7 +12,7 @@ Becoz everything written in Internal Format
 # colorful section <!-- omit in toc -->
 
 > [!IMPORTANT]\
-> Word ni ander link mate  [allows](https://github.com) Highlight mate `https://github/api` could possibly hit the rate limiter (see [#1471](https://github.com/)). [see](http://github.com)
+> Word ni ander link mate  [allows](https://github.com) Highlight mate `https://github/api` could possibly hit the rate limiter (see [#1471](https://github.com/)). (http://github.com)
 
 
 
