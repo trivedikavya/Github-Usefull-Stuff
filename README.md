@@ -45,3 +45,30 @@ Becoz everything written in Internal Format
 | `bg_color` | Card's background color. | string (hex color or a gradient in the form of *angle,start,end*) | `fffefe` |
 | `theme` | Name of the theme, choose from [link mate bhai ](the/README.md). | enum | `default` |
 
+
+### table ni ander table
+
+<table>
+<tr><td>
+
+| Code | Locale |
+| --- | --- |
+| `cn` | leo |
+| `hu` | Hungarian |
+
+</td><td>
+
+| Code | Locale |
+| --- | --- |
+| `it` | Italian |
+| `uk-ua` | Ukrainian |
+
+</td><td>
+
+| Code | Locale |
+| --- | --- |
+| `id` | Indonesian |
+| `se` | Swedish |
+
+</td></tr>
+</table>
