@@ -81,57 +81,57 @@ Becoz everything written in Internal Format
 
 *   Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya)
 
 *   Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&hide=contribs,issues)
 
 *   Showing additional stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 *   Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&hide=issues\&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&hide=issues\&show_icons=true)
 
 *   Shows Github logo instead rank level
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&rank_icon=github)
 
 *   Shows user rank percentile instead of rank level
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=percentile)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&rank_icon=percentile)
 
 *   Customize Border Color
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&border_color=2e4058)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&border_color=2e4058)
 
 *   Include All Commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&include_all_commits=true)
 
 *   Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&show_icons=true\&theme=radical)
 
 *   Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 *   Customizing stats card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=trivedikavya\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515)
 
 *   Setting card locale
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra\&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=trivedikavya\&locale=es)
 
 *   Customizing repo card
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=trivedikavya\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 *   Gist card
 
@@ -143,11 +143,11 @@ Choose from any of the [default themes](#themes)
 
 *   Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trivedikavya)
 
 *   WakaTime card
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trivedikavya)
 
 ***
 
