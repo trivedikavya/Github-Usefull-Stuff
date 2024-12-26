@@ -31,7 +31,7 @@ Becoz everything written in Internal Format
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&bg_color=00000000)
+![Kavya trivedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=trivedikavya\&show_icons=true\&bg_color=00000000)
 
 </details>
 
