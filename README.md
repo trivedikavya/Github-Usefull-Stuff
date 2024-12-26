@@ -14,6 +14,7 @@ Becoz everything written in Internal Format
 > [!IMPORTANT]\
 > Word ni ander link mate  [allows](https://github.com) Highlight mate `https://github/api` this is also one method (see [#1471](https://github.com/)). direact link mate  (http://github.com)
 
-
+> [!WARNING]\
+> By default, the
 
 
