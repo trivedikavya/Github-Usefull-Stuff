@@ -2,6 +2,7 @@ THE small parts of BIG PROJECTS RELATED TO HTML,CSS,JAVASCRIPT WILL BE HERE 🍸
 You can use it freely <br>
 & You just have to copy past <br>
 Becoz everything written in Internal Format 
+[![](https://visitcount.itsvg.in/api?id=TRIVEDIKAVYA&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1>START Readme things  <h1>
 <P>THIS IS USE FOR EXACT OUTPUT LINK SEND </P>
 
@@ -183,7 +184,7 @@ Choose from any of the [default themes](#themes)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TRIVEDIKAVYA&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
