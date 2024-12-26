@@ -20,3 +20,4 @@ Becoz everything written in Internal Format
 > [!NOTE]\
 > Available ranks are
 
+> Options: `&hide=stars,commits,prs,issues,contribs`
