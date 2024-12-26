@@ -21,3 +21,7 @@ Becoz everything written in Internal Format
 > Available ranks are
 
 > Options: `tu same bi lakhi sake `
+
+```md
+![Anurag's GitHub stats](hthide=contribs,prs)
+```
