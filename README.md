@@ -26,7 +26,7 @@ Becoz everything written in Internal Format <br>
 
 ###### block mukva mate
 ```md
-![KAVYA TRIVEDI's GitHub stats](hthide=contribs,prs)
+![KAVYA TRIVEDI's GitHub stats](hthide=contribs,prs)   block ma lakhva mate 
 ```
 
 ### D & s wadu 
