@@ -129,25 +129,11 @@ Choose from any of the [default themes](#themes)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=trivedikavya\&locale=es)
 
-*   Customizing repo card
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=trivedikavya\&repo=github-readme-stats\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-
-*   Gist card
-
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)(https://github.com/trivedikavya/github-readme-stats)
-
-*   Customizing gist card
-
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=calm)
 
 *   Top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trivedikavya)
 
-*   WakaTime card
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trivedikavya)
 
 
 ***
