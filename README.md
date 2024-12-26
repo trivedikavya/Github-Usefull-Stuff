@@ -146,6 +146,7 @@ Choose from any of the [default themes](#themes)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=trivedikavya\&repo=vcardresume\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 
-![Gist Card](https://vcardresume/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)
+*   Compact layout
 
-![Gist Card](https://vcardresume.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d\&show_owner=true)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trivedikavya\&layout=compact)
+
