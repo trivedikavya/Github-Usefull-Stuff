@@ -183,6 +183,9 @@ Choose from any of the [default themes](#themes)
 
 
 Shileds io bi hoyy
+
+https://img.shields.io/aur/last-modified/LEGEND
+
 ---
 
 
