@@ -12,7 +12,7 @@ Becoz everything written in Internal Format
 
 
 
-# colorful section <!-- omit in toc -->
+# Colorful Sections <!-- omit in toc -->
 
 > [!IMPORTANT]\
 > Word ni ander link mate  [allows](https://github.com) Highlight mate `https://github/api` this is also one method (see [#1471](https://github.com/)). direact link mate  (http://github.com)
