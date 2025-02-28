@@ -186,6 +186,24 @@ Choose from any of the [default themes](#themes)
 
 Shileds io bi hoyy
 
+```md
+( if folder already created hoy toh)
+create repo
+Git init
+pachi 3 link (below)
+
+git add filename   ( if folder then ./foldername )
+git commit -m "fisrt git commit "
+git push
+
+( file ma kariya changes pachi push karvu hoy toh )
+git add filename   ( if folder then ./foldername )
+git commit -m "fisrt git commit "
+git push
+
+```
+
+
 
 
 ---
