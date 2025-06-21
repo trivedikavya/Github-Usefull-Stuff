@@ -221,7 +221,8 @@ git push
 ![Last Commit](https://img.shields.io/github/last-commit/trivedikavya/Useful-stuff)
 ![GitHub stars](https://img.shields.io/github/stars/trivedikavya/Useful-stuff?style=social)
 
----
+from here you can make your own clickhere[(https://shields.io/badges)]
+--- 
 
 ## 📚 Table of Contents
 
