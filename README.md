@@ -9,6 +9,8 @@ Becoz everything written in Internal Format.
 <P>THIS IS USE FOR EXACT OUTPUT LINK SEND </P>
 
 # Readme files creation eg start
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 
 
