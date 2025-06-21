@@ -339,3 +339,72 @@ Part of a long-term effort to build reusable dev tools & UI building blocks.
 
 > If you like this repo, don't forget to ⭐ it — it helps boost visibility 🙌
 
+
+
+# 🧩 Useful Stuff – Internal HTML/CSS/JS Snippets
+
+> 💡 THE small parts of BIG PROJECTS RELATED TO HTML, CSS, JAVASCRIPT WILL BE HERE 🍸  
+> Use it freely – everything is written in internal format and copy-paste ready.
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+![Last Commit](https://img.shields.io/github/last-commit/trivedikavya/Useful-stuff)
+![Repo Size](https://img.shields.io/github/repo-size/trivedikavya/Useful-stuff)
+![Top Language](https://img.shields.io/github/languages/top/trivedikavya/Useful-stuff)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+[![](https://visitcount.itsvg.in/api?id=TRIVEDIKAVYA&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 📚 Table of Contents
+
+- [🚀 How to Use](#-how-to-use)
+- [🖌️ Markdown UI Tips](#️-markdown-ui-tips)
+- [📊 GitHub Stats (Full Customization)](#-github-stats-full-customization)
+- [📋 Useful Tables](#-useful-tables)
+- [🛡️ Extra Shields](#️-extra-shields)
+- [🔐 License & Community Files](#-license--community-files)
+- [🧑‍💻 Enhance Your GitHub](#-enhance-your-github)
+- [👤 Credits](#-credits)
+
+---
+
+## 🚀 How to Use
+
+```bash
+# If Git already init done
+git add .
+git commit -m "first git commit"
+git push origin main
+
+# After making changes
+git add .
+git commit -m "update readme"
+git push
+```
+
+<details>
+<summary>:eyes: Show example</summary>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true&bg_color=00000000)
+
+</details>
+
+![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Stars](https://img.shields.io/github/stars/trivedikavya/Useful-stuff?style=social)
+![Forks](https://img.shields.io/github/forks/trivedikavya/Useful-stuff)
+![Watchers](https://img.shields.io/github/watchers/trivedikavya/Useful-stuff?style=social)
+![Issues](https://img.shields.io/github/issues/trivedikavya/Useful-stuff)
+![Pull Requests](https://img.shields.io/github/issues-pr/trivedikavya/Useful-stuff)
+![Languages](https://img.shields.io/github/languages/count/trivedikavya/Useful-stuff)
+
+
+---
+
+### ✅ What's Next?
+
+- You can paste this entire block into your main `README.md` file.
+- It's organized for **clarity**, **utility**, and **developer reuse**.
+- Covers **everything**: shields, stats, markdown blocks, and community metadata.
+
+Let me know if you want a **`.zip` folder**, a **GitHub-ready repo structure**, or **starter template repo**!
+
