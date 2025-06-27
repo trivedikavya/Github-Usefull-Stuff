@@ -184,4 +184,4 @@ git remote add origin <url>
 ### 📥 Like this README?
 
 You can fork and use it for your own repo or dev notes.  
-Feel free to ⭐ this or follow [@web_development_legend](https://instagram.com/web_development_legend) for more tips, notes, and cheat sheets!
+Feel free to Fork this And Try on this REPO ( Task to Commit (N.O - Myname Commited ) eg :- 1 kavya trivedi commited 
