@@ -37,7 +37,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 
 ````| Use for highlighting alerts, info, or warnings in beautiful blocks. Requires GitHub Flavored Markdown support. |
 
----
+
 
 ## 📦 3. GitHub Stats – User Card
 
@@ -235,6 +235,6 @@ Add curated badges for:
 **Kavya Trivedi**  
 _Developer • UI Builder • Readme Enthusiast_
 
-> 💬 DM [@web_development_legend](https://instagram.com/web_development_legend) if you want a custom README built for your profile or project!
+> 💬 DM [@kavyatrivedi](https://instagram.com/kavyatrivedi.og) if you want a custom README built for your profile or project!
 
 ````
