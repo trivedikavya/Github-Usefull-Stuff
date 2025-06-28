@@ -140,3 +140,35 @@ Just replace <topic-name> with any tech name from GitHub Explore.
 
 </p>
 
+<h3 align="left">🚀 Tech Stack I Use</h3>
+<p align="left">
+
+  <!-- 🧩 GitHub Explore PNGs -->
+  <code><img height="25" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" title="HTML - GitHub Explore" /></code>
+  <code><img height="25" alt="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" title="CSS - GitHub Explore" /></code>
+  <code><img height="25" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" title="JavaScript - GitHub Explore" /></code>
+
+  <!-- 🌀 Devicon (Colored SVGs) -->
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React - Devicon" style="margin-left: 5px;" />
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS - Devicon" style="margin-left: 5px;" />
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS - Devicon" style="margin-left: 5px;" />
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase - Devicon" style="margin-left: 5px;" />
+
+  <!-- 🧠 Simple Icons (Monochrome with custom color filter) -->
+  <img height="25" alt="TypeScript" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" title="TypeScript - Simple Icons" style="filter: invert(36%) sepia(66%) saturate(372%) hue-rotate(183deg) brightness(91%) contrast(91%); margin-left: 5px;" />
+  <img height="25" alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" title="Python - Simple Icons" style="filter: invert(50%) sepia(20%) saturate(535%) hue-rotate(171deg) brightness(91%) contrast(90%); margin-left: 5px;" />
+
+  <!-- 🏷️ Shields.io Badges -->
+  <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" height="25" title="Figma - Shields.io" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="25" title="Git - Shields.io" />
+
+  <!-- 🎞️ Animated GIF Tech Logos -->
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="30" title="JavaScript Animated (GIF)" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="30" title="React Animated (GIF)" />
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="30" title="Python Animated (GIF)" />
+
+  <!-- 🌟 Simulated Glowing Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" height="30" title="Glowing Effect (Fake using drop-shadow)" style="filter: drop-shadow(0 0 5px #00ffff); margin-left: 5px;" />
+
+</p>
+
