@@ -204,7 +204,7 @@ Just replace <topic-name> with any tech name from GitHub Explore.
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" />
   </span>
 
-  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7;">
+  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 10px 10px #a855f7, 0 10px 20px #a855f7;">
     <img height="30" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git" />
   </span>
 
