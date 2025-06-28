@@ -60,7 +60,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trivedikavya&layout=compact)
 ```
 
-## 🧮 5. Creative skill Icons
+##  5. Creative skill Icons
 <p align="left">
   <!-- Programming Languages -->
   <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
@@ -110,4 +110,33 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 ![icons-use](https://raw.githubusercontent.com/github/explore/main/topics/<topic-name>/<topic-name>.png)
 Just replace <topic-name> with any tech name from GitHub Explore.
 ```
+### More icons In it 
+
+<h3 align="left">⚙️ Tech Stack (Mixed Styles)</h3>
+<p align="left">
+
+  <!-- GitHub Explore Icons -->
+  <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" title="HTML - GitHub Explore"></code>
+  <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" title="CSS - GitHub Explore"></code>
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" title="JavaScript - GitHub Explore"></code>
+
+  <!-- Simple Icons (Monochrome SVG) -->
+  <img height="20" alt="typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/typescript.svg" title="TypeScript - Simple Icons" style="filter: invert(32%) sepia(99%) saturate(379%) hue-rotate(182deg) brightness(90%) contrast(91%);" />
+  <img height="20" alt="python" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" title="Python - Simple Icons" style="filter: invert(56%) sepia(20%) saturate(535%) hue-rotate(171deg) brightness(91%) contrast(90%);" />
+
+  <!-- Devicon (Colored SVGs) -->
+  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React - Devicon" />
+  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap - Devicon" />
+  <img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL - Devicon" />
+
+  <!-- Shields.io Badges -->
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="20" title="Tailwind CSS - Shields.io" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height="20" title="Git - Shields.io" />
+  <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" height="20" title="Figma - Shields.io" />
+
+  <!-- Custom Raw Hosted SVG -->
+  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git - Custom Icon" />
+  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python - Raw SVG" />
+
+</p>
 
