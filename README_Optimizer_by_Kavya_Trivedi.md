@@ -172,3 +172,40 @@ Just replace <topic-name> with any tech name from GitHub Explore.
 
 </p>
 
+<h3 align="left">🚀 My Tech Stack with Purple Glow</h3>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <!-- Glowing Box with Purple Background and Shadow -->
+  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7;">
+    <img height="30" alt="HTML" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" title="HTML" />
+  </span>
+
+  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7;">
+    <img height="30" alt="CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" title="CSS" />
+  </span>
+
+  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7;">
+    <img height="30" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" title="JavaScript" />
+  </span>
+
+  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7;">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  </span>
+
+  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7;">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" />
+  </span>
+
+  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7;">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
+  </span>
+
+  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7;">
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" />
+  </span>
+
+  <span style="display: inline-block; padding: 8px; border-radius: 12px; background-color: #3b0a57; box-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7;">
+    <img height="30" alt="Git" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git" />
+  </span>
+
+</p>
