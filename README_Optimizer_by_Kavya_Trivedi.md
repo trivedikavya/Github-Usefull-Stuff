@@ -216,3 +216,41 @@ Just replace <topic-name> with any tech name from GitHub Explore.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
   <img src="https://img.shields.io/badge/-TailwindCSS-0ea5e9?style=flat&logo=tailwindcss&logoColor=white" height="25" />
 </p>
+
+## 5. 🚀 Creative Skill Icons
+
+<!-- 🌐 GitHub Explore PNG Icons -->
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" height="25">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" height="25">
+
+<!-- 🧩 Devicon Icons (Colorful SVGs via CDN) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="25">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25">
+
+<!-- 🏷️ Shields.io Badges (Text + Icon) -->
+<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma">
+
+<!-- 🔄 Animated Tech GIF Icons (if you want attention-grabbers) -->
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="30" title="JavaScript GIF">
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="30" title="Python GIF">
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="30" title="React GIF">
+
+---
+
+📦 [Icons Reference](https://raw.githubusercontent.com/github/explore/main/topics/)<topic-name>.png  
+💡 Just replace `<topic-name>` with any GitHub Explore topic (like `html`, `python`, `figma`, etc.)
