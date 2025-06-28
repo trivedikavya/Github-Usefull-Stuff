@@ -209,3 +209,10 @@ Just replace <topic-name> with any tech name from GitHub Explore.
   </span>
 
 </p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="25" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="25" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-0ea5e9?style=flat&logo=tailwindcss&logoColor=white" height="25" />
+</p>
