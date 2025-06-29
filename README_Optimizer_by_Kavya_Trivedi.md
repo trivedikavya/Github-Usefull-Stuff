@@ -302,3 +302,51 @@ Just replace <topic-name> with any tech name from GitHub Explore.
 - **Badges**: [https://shields.io](https://shields.io)
 - **GIFs**: Giphy (for fun, limited use)
 
+
+## 5. 🚀 Creative Skill Icons
+
+### 🖌️ Frontend Development
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="25" title="HTML">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="25" title="CSS">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="25" title="JavaScript">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" height="25" title="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" title="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="25" title="Bootstrap">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="25" title="Tailwind CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" title="Vue.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" title="VS Code">
+</p>
+
+### 🔧 Backend & Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" title="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" title="Firebase">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" title="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" title="MongoDB">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" title="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" title="GitHub">
+</p>
+
+### 🎨 UI/UX & Design Tools
+<p>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" height="25" title="Figma">
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma">
+</p>
+
+### 🎯 Extra Fun (Optional GIFs)
+<p>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="30" title="JavaScript GIF">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="30" title="React GIF">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="30" title="Python GIF">
+</p>
+
+### 📦 Icon Sources
+<p>
+  <code>https://raw.githubusercontent.com/github/explore/main/topics/&lt;topic-name&gt;/&lt;topic-name&gt;.png</code>  
+  <code>https://cdn.jsdelivr.net/gh/devicons/devicon/icons/&lt;tech&gt;/&lt;tech&gt;-original.svg</code>  
+  <code>https://img.shields.io/...</code>
+</p>
+
