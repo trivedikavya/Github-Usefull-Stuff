@@ -219,7 +219,7 @@ Just replace <topic-name> with any tech name from GitHub Explore.
 
 ## 5. 🚀 Creative Skill Icons
 
-<!-- 🌐 GitHub Explore PNG Icons -->
+<p><!-- 🌐 GitHub Explore PNG Icons -->
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="25">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="25">
@@ -249,7 +249,7 @@ Just replace <topic-name> with any tech name from GitHub Explore.
 <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="30" title="JavaScript GIF">
 <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" height="30" title="Python GIF">
 <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" height="30" title="React GIF">
-
+</p>
 ---
 
 📦 [Icons Reference](https://raw.githubusercontent.com/github/explore/main/topics/)<topic-name>.png  
