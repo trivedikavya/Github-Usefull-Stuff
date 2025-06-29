@@ -114,7 +114,7 @@ Just replace <topic-name> with any tech name from GitHub Explore.
 
 <h3 align="left">⚙️ Tech Stack (Mixed Styles)</h3>
 <p align="left">
-
+<p>
   <!-- GitHub Explore Icons -->
   <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" title="HTML - GitHub Explore"></code>
   <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" title="CSS - GitHub Explore"></code>
@@ -216,7 +216,7 @@ Just replace <topic-name> with any tech name from GitHub Explore.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
   <img src="https://img.shields.io/badge/-TailwindCSS-0ea5e9?style=flat&logo=tailwindcss&logoColor=white" height="25" />
 </p>
-
+</p>
 ## 5. 🚀 Creative Skill Icons
 
 <p><!-- 🌐 GitHub Explore PNG Icons -->
