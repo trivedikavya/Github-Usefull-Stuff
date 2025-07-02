@@ -36,7 +36,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 > Always update your README before pushing.
 
 ````| Use for highlighting alerts, info, or warnings in beautiful blocks. Requires GitHub Flavored Markdown support. |
-
+````
 
 
 ## 📦 3. GitHub Stats – User Card
