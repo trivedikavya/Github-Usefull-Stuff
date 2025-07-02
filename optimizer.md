@@ -99,7 +99,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 | `username` | Your GitHub handle |
 | `repo` | Repository name |
 ``` | Use this to organize parameters, settings, features, or tech stack info. |
-
+```
 ---
 
 ## ⭐ 7. GitHub Repo Cards
@@ -125,7 +125,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 | ```md
 ***
 ``` | Use to visually separate sections in your README. |
-
+```
 ---
 
 ## 🛡️ 9. Shields.io Badges
@@ -138,7 +138,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 | ```md
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 ``` | Add badges for license, status, stars, forks, or custom tags. Visit [https://shields.io](https://shields.io) to generate your own. |
-
+```
 ---
 
 ## 🚀 10. Templates & Layout Blueprints
