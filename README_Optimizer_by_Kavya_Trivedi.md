@@ -15,7 +15,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 
 | Markdown Code | How to Use |
 |---------------|-------------|
-| ```md          heloo here mee je Koye leo leo 
+| ```md         | heloo here mee je Koye leo leo| 
 [![](https://visitcount.itsvg.in/api?id=trivedikavya&icon=0&color=0)](https://visitcount.itsvg.in)
 ``` | Displays a public profile visit counter. Replace `trivedikavya` with your GitHub username. |
 
