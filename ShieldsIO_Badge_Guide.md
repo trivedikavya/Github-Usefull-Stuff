@@ -142,7 +142,7 @@
  
 </p>
 
-## `I Build, I Create, I Adapt If I Don’t Know It, I Make It Work.`<img src="https://i.pinimg.com/originals/4f/83/50/4f83505620d2d05abd71fee5e32ed6c5.gif" width="35" height="35" />
+## `I Think. Build. Create. Learn. Fix. But I Make it work.`<img src="https://i.pinimg.com/originals/4f/83/50/4f83505620d2d05abd71fee5e32ed6c5.gif" width="35" height="35" />
 
 ---
 
