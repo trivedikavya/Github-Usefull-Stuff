@@ -148,19 +148,14 @@
 
 ## 📬 About Me
 
-- 🛠️ **Currently Working On:** Creative dev tools, Chrome extensions, full-stack apps
-- em **Recent project:** Sudoku through  AWS Q - cli  
-- 📚 **Currently Learning:** Django, performance optimization, animated UI/UX  
-- 📩 **Email:** [kavyatrivedi.dev@gmail.com](mailto:kavyatrivedi.dev@gmail.com)
+- 🛠️ **Currently Working On:** Responsiveness of EcoCarto
+- ⚡ **Recent project:** Sudoku through AWS Q - cli  
+- 📚 **Currently Learning:** Django  
+- 📩 **Email:** [kavyatrivedi931@gmail.com](mailto:kavyatrivedi931@gmail.com)
 
 ---
 
 ## 🌍 My Social Profiles
-<p align="left">
-    <a href="https://github.com/kavyatrivedi-dev" target="_blank" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/kavyatrivedi-dev" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
