@@ -155,7 +155,7 @@
 
 ---
 
-## 🌍 Socials & Links
+## 🌍 My Social Profiles
 <p align="left">
     <a href="https://github.com/kavyatrivedi-dev" target="_blank" title="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
