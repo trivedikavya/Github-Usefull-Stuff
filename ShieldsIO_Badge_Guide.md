@@ -148,49 +148,43 @@
 
 ## 📬 About Me
 
-- 🛠️ **Currently Working On:** Creative dev tools, Chrome extensions, full-stack apps  
+- 🛠️ **Currently Working On:** Creative dev tools, Chrome extensions, full-stack apps
+- em **Recent project:** Sudoku through  AWS Q - cli  
 - 📚 **Currently Learning:** Django, performance optimization, animated UI/UX  
 - 📩 **Email:** [kavyatrivedi.dev@gmail.com](mailto:kavyatrivedi.dev@gmail.com)
 
 ---
-## 📬 Let's Connect (⬅️ This Section — NEW 🔥)
-
-<p align="left">
-  <a href="mailto:kavyatrivedi.dev@gmail.com?subject=Let's Connect&body=Heyy Kavya, I am..." target="_blank">
-    <img src="https://img.shields.io/badge/Email-Kavya%20Trivedi-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kavya"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/trivedikavya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Message%20Kavya-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Kavya"/>
-  </a>
-
-  <a href="https://twitter.com/iamkavyatrivedi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-DM%20Kavya-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Kavya"/>
-  </a>
-</p>
-
----
-
 
 ## 🌍 Socials & Links
 <p align="left">
-  <a href="https://linkedin.com/in/kavyatrivedi-dev" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://github.com/kavyatrivedi-dev" target="_blank" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/kavyatrivedi_" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  &nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/kavyatrivedi-dev" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/kavyatrivedi-dev" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  &nbsp;&nbsp;
+
+  <a href="https://twitter.com/kavyatrivedi_" target="_blank" title="Twitter">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/kavyatrivedi_" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank" title="LeetCode">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
   </a>
-  <a href="https://kavyatrivedi.vercel.app" target="_blank">
+  &nbsp;&nbsp;
+
+  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank" title="HackerRank">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40" alt="HackerRank"/>
+  </a>
+<!--   <a href="https://kavyatrivedi.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  </a> -->
 </p>
----
+
 
 ## 🧰 My Tech Toolbox
 
