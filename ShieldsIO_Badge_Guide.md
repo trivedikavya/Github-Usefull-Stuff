@@ -157,22 +157,22 @@
 
 ## 🌍 My Social Profiles
 
-  <a href="https://linkedin.com/in/kavyatrivedi-dev" target="_blank" title="LinkedIn">
+  <a href="https://linkedin.com/in/trivedikavya" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://twitter.com/kavyatrivedi_" target="_blank" title="Twitter">
+  <a href="https://twitter.com/iamkavyatrivedi" target="_blank" title="Twitter">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40" height="40" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://leetcode.com/YOUR_USERNAME" target="_blank" title="LeetCode">
+  <a href="https://leetcode.com/trivedi_kavya" target="_blank" title="LeetCode">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank" title="HackerRank">
+  <a href="https://www.hackerrank.com/kavyatrivedi" target="_blank" title="HackerRank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40" height="40" alt="HackerRank"/>
   </a>
 <!--   <a href="https://kavyatrivedi.vercel.app" target="_blank">
