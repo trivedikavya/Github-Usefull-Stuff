@@ -184,5 +184,5 @@
 ## 🧰 My Tech Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,threejs,django,python,pandas,numpay,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,threejs,django,python,panda,numpay,vscode,git,github" />
 </p>
