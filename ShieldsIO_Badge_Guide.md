@@ -158,7 +158,8 @@
 ## 🌍 My Social Profiles
 
   <a href="https://linkedin.com/in/trivedikavya" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/> -->
   </a>
   &nbsp;&nbsp;
 
