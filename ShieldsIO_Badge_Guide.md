@@ -150,7 +150,7 @@
 
 - 🛠️ **Currently Working On:** Responsiveness of [EcoCarto](https://v0-eco-health-map-project.vercel.app/)
 - ⚡ **Recent project:** Through AWS Q-cli Developed [Sudoku](https://github.com/trivedikavya/Amazon-Q-CLI)  
-- 📚 **Currently Learning:** ` Django `
+- 📚 **Currently Learning:** ` Django at intermediate stage`
 - 📩 **Email:** [kavyatrivedi931@gmail.com](mailto:kavyatrivedi931@gmail.com)
 
 ---
