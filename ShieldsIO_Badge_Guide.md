@@ -148,9 +148,9 @@
 
 ## 📬 About Me
 
-- 🛠️ **Currently Working On:** Responsiveness of EcoCarto
-- ⚡ **Recent project:** Sudoku through AWS Q - cli  
-- 📚 **Currently Learning:** Django  
+- 🛠️ **Currently Working On:** Responsiveness of [EcoCarto](https://v0-eco-health-map-project.vercel.app/)
+- ⚡ **Recent project:** Through AWS Q-cli Developed [Sudoku](https://github.com/trivedikavya/Amazon-Q-CLI)  
+- 📚 **Currently Learning:** ` Django `
 - 📩 **Email:** [kavyatrivedi931@gmail.com](mailto:kavyatrivedi931@gmail.com)
 
 ---
