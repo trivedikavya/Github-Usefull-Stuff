@@ -139,12 +139,9 @@
   <span style="color:#4D96FF;">Trivedi</span> 
  <img src="https://i.pinimg.com/736x/b8/20/12/b8201271d4e1595d57ad2e40b6b4c038.jpg" width="39" height="39" /> <!-- 45 40 -- iron man  . 30 30 for apdi image  -->
 </h1>
- 
-</p>
+
 
 ## `I Think-Build-Create-Learn-Fix But I Make it work.`<img src="https://i.pinimg.com/originals/4f/83/50/4f83505620d2d05abd71fee5e32ed6c5.gif" width="35" height="35" />
-
----
 
 ## 📬 About Me
 
@@ -186,3 +183,12 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,django,python,vscode,replit,git,github,netlify,gcp,ai" />
 </p>
+
+
+
+</p>
+
+
+
+---
+
