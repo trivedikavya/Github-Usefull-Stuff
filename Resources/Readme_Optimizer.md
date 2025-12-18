@@ -3,12 +3,11 @@
 Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly optimizer.
 
 ## 🚦 1. GitHub Profile Visit Counter
-**Preview:** 
-[![](https://visitcount.itsvg.in/api?id=TRIVEDIKAVYA&icon=0&color=0)](https://visitcount.itsvg.in)
+**Description:** Tracks how many people view your profile.
 
-| Markdown Code | How to Use |
-| :--- | :--- |
-| `[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)` | Replace `YOUR_USERNAME` with your handle. |
+| Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
+| :--- | :--- | :--- |
+| [![](https://visitcount.itsvg.in/api?id=TRIVEDIKAVYA&icon=0&color=0)](https://visitcount.itsvg.in) | `[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)` | **`id=YOUR_USERNAME`**<br>↳ Replace with your actual GitHub username.<br><br>**`icon=0`**<br>↳ Change number (0-5) for different icons.<br><br>**`color=0`**<br>↳ Change number (0-12) for different text colors. |
 
 ## 📦 2. GitHub Stats Card
 **Preview:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true)
