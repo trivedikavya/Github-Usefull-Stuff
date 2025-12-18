@@ -45,5 +45,5 @@ These badges are perfect for your **GitHub README.md**, **Documentation sites**,
 
 Here are the best resources to find **Easy and Direct** badges for any technology (API, Crypto, Design, etc.):
 
-* 👉 **[The Extensive MD-Badges Collection](https://github.com/inttter/md-badges?tab=readme-ov-file#-api-development)** - *Highly Recommended! Great categorization.*
+* 👉 **[The Extensive MD-Badges Collection](https://github.com/inttter/md-badges?tab=readme-ov-file#-api-development) , ![2nd this](https://github.com/Ileriayo/markdown-badges#-artificial-intelligence-and-bots) ** - *Highly Recommended! Great categorization.*
 * 👉 **[Official Shields.io Library](https://shields.io/badges)** - *Build your own custom badges.*
