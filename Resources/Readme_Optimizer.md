@@ -63,3 +63,21 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 | Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
 | :--- | :--- | :--- |
 | <details><summary>Click Me</summary>Hidden!</details> | `<details>`<br>`<summary>Click Me</summary>`<br>`Hidden Content`<br>`</details>` | **`Click Me`**<br>↳ The text visible on the button.<br><br>**`Hidden Content`**<br>↳ Can be text, images, or even other code blocks. |
+
+## 🥇 6. GitHub Trophies
+**Description:** Gamification awards based on your activity (Stars, commits, followers).
+> 🔗 **Reference:** [Profile Trophy Docs](https://github.com/ryo-ma/github-profile-trophy)
+
+| Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
+| :--- | :--- | :--- |
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=trivedikavya) | `![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)` | **`username=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=flat`**<br>↳ Add `&theme=flat` to the end of the URL for a cleaner look. |
+
+---
+
+## 💬 7. Random Dev Quotes
+**Description:** Displays a random programming quote that updates automatically.
+> 🔗 **Reference:** [Readme Quotes Docs](https://github.com/shravan20/github-readme-quotes)
+
+| Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
+| :--- | :--- | :--- |
+| ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) | `![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)` | **`theme=radical`**<br>↳ Change theme.<br><br>**`type=horizontal`**<br>↳ Change to `vertical` for a tall card. |
