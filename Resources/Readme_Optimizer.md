@@ -57,12 +57,9 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 | `> [!CAUTION]`<br>`Cautions` |
 |`> [!TIP]`<br>`Tips Will be here`| 
 
-## 🔁 5. Collapsible Section (Show/Hide)
-**Preview:**
-<details><summary>Click to Expand</summary>
-Hidden content here!
-</details>
+## 🔁 6. Collapsible Section (Show/Hide)
+**Description:** Hide long text or images behind a clickable arrow.
 
-| Markdown Code |
-| :--- |
-| `<details>`<br>`<summary>Click to Expand</summary>`<br>`Hidden content here`<br>`</details>` |
+| Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
+| :--- | :--- | :--- |
+| <details><summary>Click Me</summary>Hidden!</details> | `<details>`<br>`<summary>Click Me</summary>`<br>`Hidden Content`<br>`</details>` | **`Click Me`**<br>↳ The text visible on the button.<br><br>**`Hidden Content`**<br>↳ Can be text, images, or even other code blocks. |
