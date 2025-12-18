@@ -17,11 +17,20 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 | ![Stats](https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true&theme=radical) | `![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)` | **`username=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=radical`**<br>↳ Change theme: `dark`, `merko`, `gruvbox`, `tokyonight`, `onedark`.<br><br>**`show_icons=true`**<br>↳ Set to `false` to hide icons. |
 
 ## 🧮 3. Top Languages Card
-**Preview:** ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trivedikavya&layout=compact)
+**Description:** Displays the languages you use most across all your repos.
 
-| Markdown Code | How to Use |
-| :--- | :--- |
-| `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)` | Shows your most used languages. |
+| Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
+| :--- | :--- | :--- |
+| ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trivedikavya&layout=compact&theme=radical) | `![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)` | **`username=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`layout=compact`**<br>↳ Remove this part to see the "Standard" bar chart view.<br><br>**`theme=radical`**<br>↳ Change color theme (see Stats Card list). |
+
+---
+
+## 🏆 4. Streak Stats
+**Description:** Shows your current daily coding streak.
+
+| Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
+| :--- | :--- | :--- |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=trivedikavya&theme=radical) | `![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)` | **`user=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=radical`**<br>↳ Pick a theme to match your other cards. |
 
 ## 🎨 4. Colorful Alert Blocks
 **Preview:**
