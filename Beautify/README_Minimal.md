@@ -17,7 +17,7 @@ pip install my-project
 **File:** `Beautify/README_Visual.md`
 *Best for: Web apps, Mobile apps, or anything with a GUI.*
 
-```markdown
+
 <div align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="100">
   <h1>[App Name]</h1>
@@ -61,7 +61,7 @@ pip install my-project
 1. Clone the repo
    ```sh
    git clone [https://github.com/username/repo.git](https://github.com/username/repo.git)
-```
+
 #### 3️⃣ The "Profile" Template (Personal)
 **File:** `Beautify/README_Profile.md`
 *Best for: Your main GitHub profile page.*
