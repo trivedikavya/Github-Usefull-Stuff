@@ -7,7 +7,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 
 | Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
 | :--- | :--- | :--- |
-| [![](https://visitcount.itsvg.in/api?id=TRIVEDIKAVYA&icon=0&color=0)](https://visitcount.itsvg.in) | `[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)` | **`id=YOUR_USERNAME`**<br>↳ Replace with your actual GitHub username.<br><br>**`icon=0`**<br>↳ Change number (0-5) for different icons.<br><br>**`color=0`**<br>↳ Change number (0-12) for different text colors. |
+| [![](https://visitcount.itsvg.in/api?id=trivedikavya&icon=0&color=0)](https://visitcount.itsvg.in) | `[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)` | **`id=YOUR_USERNAME`**<br>↳ Replace with your actual GitHub username.<br><br>**`icon=0`**<br>↳ Change number (0-5) for different icons.<br><br>**`color=0`**<br>↳ Change number (0-12) for different text colors. |
 
 ## 📦 2. GitHub Stats Card
 **Preview:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true)
