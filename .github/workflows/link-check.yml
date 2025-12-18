@@ -1,0 +1,16 @@
+name: Check Broken Links
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * 1' # Runs every Monday
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.5.0
+        with:
+          args: --verbose --no-progress './**/*.md'
