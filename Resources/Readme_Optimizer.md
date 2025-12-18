@@ -14,7 +14,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 
 | Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
 | :--- | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true&theme=radical) | `![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)` | **`username=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=radical`**<br>↳ Change theme: `dark`, `merko`, `gruvbox`, `tokyonight`, `onedark`.<br><br>**`show_icons=true`**<br>↳ Set to `false` to hide icons. |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true&theme=radical) | `![](https://github-readme-streak-stats.herokuapp.com/?user=TRIVEDIKAVYA&theme=dark&hide_border=false)` | **`username=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=radical`**<br>↳ Change theme: `dark`, `merko`, `gruvbox`, `tokyonight`, `onedark`.<br><br>**`show_icons=true`**<br>↳ Set to `false` to hide icons. |
 
 ## 🧮 3. Top Languages Card
 **Description:** Displays the languages you use most across all your repos.
