@@ -11,3 +11,4 @@ graph TD;
     B -- No --> D[Register];
     C --> E[Dashboard];
     D --> E;
+```
