@@ -4,7 +4,7 @@ Copy the image tags below to display your tech stack.
 
 ### 🖌️ Frontend
 
-<img src="[https://raw.githubusercontent.com/github/explore/main/topics/html/html.png](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png)" height="25" title="HTML">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" height="25" title="HTML">
 <img src="[https://raw.githubusercontent.com/github/explore/main/topics/css/css.png](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png)" height="25" title="CSS">
 <img src="[https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png)" height="25" title="JavaScript">
 <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)" height="25" title="React">
