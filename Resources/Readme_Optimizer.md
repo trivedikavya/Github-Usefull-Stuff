@@ -30,7 +30,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 
 | Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
 | :--- | :--- | :--- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=trivedikavya&exclude_days=Sat)](https://git.io/streak-stats) | `[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=USERNAME&exclude_days=Sat)](https://git.io/streak-stats)` | **`user=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=radical`**<br>↳ Pick a theme to match your other cards. |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=trivedikavya)](https://git.io/streak-stats) | `[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=USERNAME&exclude_days=Sat)](https://git.io/streak-stats)` | **`user=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=radical`**<br>↳ Pick a theme to match your other cards. |
 
 ## 🎨 4. Colorful Alert Blocks
 **Preview:**
