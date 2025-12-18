@@ -8,7 +8,7 @@ Copy the image tags below to display your tech stack.
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" height="25" title="CSS">
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" height="25" title="JavaScript">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" title="React">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="25" title="Tailwind">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 ### 🔧 Backend & DB
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" title="Node.js">
