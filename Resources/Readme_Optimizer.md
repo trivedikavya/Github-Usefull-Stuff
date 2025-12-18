@@ -10,11 +10,11 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 | [![](https://visitcountpro.netlify.app/api?id=trivedikavya&pretty=true)](https://visitcount.itsvg.in) | `[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)` | **`id=YOUR_USERNAME`**<br>↳ Replace with your actual GitHub username.<br><br>**`icon=0`**<br>↳ Change number (0-5) for different icons.<br><br>**`color=0`**<br>↳ Change number (0-12) for different text colors. |
 
 ## 📦 2. GitHub Stats Card
-**Preview:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true)
+**Description:** Shows your total stars, commits, PRs, and issues.
 
-| Markdown Code | How to Use |
-| :--- | :--- |
-| `![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)` | Shows stars, commits, and PRs. Replace `YOUR_USERNAME`. |
+| Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
+| :--- | :--- | :--- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true&theme=radical) | `![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)` | **`username=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=radical`**<br>↳ Change theme: `dark`, `merko`, `gruvbox`, `tokyonight`, `onedark`.<br><br>**`show_icons=true`**<br>↳ Set to `false` to hide icons. |
 
 ## 🧮 3. Top Languages Card
 **Preview:** ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trivedikavya&layout=compact)
