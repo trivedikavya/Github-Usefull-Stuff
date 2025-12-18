@@ -3,7 +3,8 @@
 Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly optimizer.
 
 ## 🚦 1. GitHub Profile Visit Counter
-**Preview:** [![](https://visitcount.itsvg.in/api?id=TRIVEDIKAVYA&icon=0&color=0)](https://visitcount.itsvg.in)
+**Preview:** 
+[![](https://visitcount.itsvg.in/api?id=TRIVEDIKAVYA&icon=0&color=0)](https://visitcount.itsvg.in)
 
 | Markdown Code | How to Use |
 | :--- | :--- |
