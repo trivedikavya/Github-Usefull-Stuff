@@ -80,4 +80,4 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 
 | Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
 | :--- | :--- | :--- |
-| ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) | `![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)` | **`theme=radical`**<br>↳ Change theme.<br><br>**`type=horizontal`**<br>↳ Change to `vertical` for a tall card. |
+| ![Quote](https://github.com/zhravan/github-readme-quotes) | `![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)` | **`theme=radical`**<br>↳ Change theme.<br><br>**`type=horizontal`**<br>↳ Change to `vertical` for a tall card. |
