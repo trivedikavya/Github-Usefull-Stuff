@@ -20,4 +20,4 @@ Copy the image tags below to display your tech stack.
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png" height="25" title="Figma">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" title="Git">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=trivedikavya&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trivedikavya&theme=dark)](https://git.io/streak-stats)
