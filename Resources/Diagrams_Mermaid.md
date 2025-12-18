@@ -43,3 +43,5 @@ erDiagram
         string details
     }
 ```
+Many More Differnet Are Available Here :- https://github.com/mermaid-js/mermaid
+In **Readme** You will Find All the Diagram You Want
