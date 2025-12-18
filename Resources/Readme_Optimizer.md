@@ -70,7 +70,7 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 
 | Preview Output | 📋 Markdown Code (Copy This) | 🛠️ What You Can Edit |
 | :--- | :--- | :--- |
-| ![](https://github-profile-trophy.vercel.app/?username=trivedikavya) | `![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)` | **`username=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=flat`**<br>↳ Add `&theme=flat` to the end of the URL for a cleaner look. |
+| ![](https://github-trophies.vercel.app/?username=trivedikavya&theme=radical&no-frame=false&no-bg=false&margin-w=4) | `![](https://github-trophies.vercel.app/?username=trivedikavya&theme=radical&no-frame=false&no-bg=false&margin-w=4)` | **`username=YOUR_USERNAME`**<br>↳ Your GitHub handle.<br><br>**`theme=flat`**<br>↳ Add `&theme=flat` to the end of the URL for a cleaner look. |
 
 ---
 
