@@ -25,14 +25,28 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 
 ## 🎨 4. Colorful Alert Blocks
 **Preview:**
+> [!NOTE]
+> Useful information that users should know, even when skimming.
+
+> [!TIP]
+> Helpful advice for doing things better or faster.
+
 > [!IMPORTANT]
-> Always update your README before pushing.
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Negative consequences can occur if these instructions are disregarded.
 
 | Markdown Code |
 | :--- |
 | `> [!IMPORTANT]`<br>`> Your message here.` |
 | `> [!WARNING]`<br>`> Your warning here.` |
 | `> [!NOTE]`<br>`> Your note here.` |
+| `> [!CAUTION]`<br>`Cautions` |
+|`> [!TIP]`<br>`Tips Will be here`| 
 
 ## 🔁 5. Collapsible Section (Show/Hide)
 **Preview:**
