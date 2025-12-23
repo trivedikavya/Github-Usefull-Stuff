@@ -8,16 +8,35 @@ Make your GitHub README ✨ shine ✨ with this structured, beginner-friendly op
 
 ---
 
-## 🚦 1. GitHub Profile Visit Counter
+## 🖊️ Text Highlighting & Formatting Cheat Sheet
 
-**🔍 Preview:**
-[![](https://visitcount.itsvg.in/api?id=trivedikavya&icon=0&color=0)](https://visitcount.itsvg.in)
+Copy the "Code to Type" to get the specific result.
 
-| Markdown Code | How to Use |
-|---------------|-------------|
-| ```md         | heloo here mee je Koye leo leo| 
-[![](https://visitcount.itsvg.in/api?id=trivedikavya&icon=0&color=0)](https://visitcount.itsvg.in)
-``` | Displays a public profile visit counter. Replace `trivedikavya` with your GitHub username. |
+| Style | Result (Preview) | 📋 Code to Type | Description |
+| :--- | :--- | :--- | :--- |
+| **Highlight** | `This is highlighted` | \`This is highlighted\` | Use **backticks** (the key below Esc) for inline code. |
+| **Bold** | **Bold Text** | `**Bold Text**` | Use **double asterisks** to make text thick. |
+| **Italic** | *Italic Text* | `*Italic Text*` | Use **single asterisks** to slant text. |
+| **Strike** | ~~Deleted~~ | `~~Deleted~~` | Use **double tildes** to cross out text. |
+| **HTML Color** | <span style="color:red">Red Text</span> | `<span style="color:red">Red Text</span>` | Use HTML `<span>` tags to color specific words. |
+| **Keyboard** | <kbd>Ctrl</kbd> + <kbd>C</kbd> | `<kbd>Ctrl</kbd> + <kbd>C</kbd>` | Use `<kbd>` tags to simulate keyboard buttons. |
+| **Quote** | > Quote | `> Quote` | Use a **greater-than sign** for blockquotes. |
+
+---
+
+## 💻 Code Blocks (Multi-line) Guide
+
+To show a block of code (like JS, HTML, or MD), wrap your code in **Triple Backticks** (\`\`\`).
+
+| Language | 📋 Code to Type | Result Description |
+| :--- | :--- | :--- |
+| **General** | \`\`\`<br>Your Code Here<br>\`\`\` | **Simple Grey Box**<br>Use this for generic text or output. |
+| **Javascript** | \`\`\`js<br>console.log("Hi");<br>\`\`\` | **Colored for JS**<br>Highlights variables, functions, and strings. |
+| **HTML** | \`\`\`html<br><div>Hello</div><br>\`\`\` | **Colored for HTML**<br>Highlights tags (`<div>`) and attributes. |
+| **Python** | \`\`\`py<br>print("Hello")<br>\`\`\` | **Colored for Python**<br>Highlights keywords and print functions. |
+| **Markdown** | \`\`\`md<br># Title<br>\`\`\` | **Colored for Markdown**<br>Highlights headers, links, and bold syntax. |
+
+> **💡 Pro Tip:** You can use almost any language shortcode (e.g., `css`, `java`, `cpp`, `sql`, `json`) after the first three backticks to get specific coloring!
 
 ---
 
